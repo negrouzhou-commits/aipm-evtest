@@ -3,7 +3,7 @@
 **来源有两个：**
 
 1. **约 40 题**改编自 [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) 的《AI Product Manager: Question Bank》（94 题英文，MIT License, Copyright 2024 Aishwarya Naresh Reganti）——翻译并改写。
-2. **约 6-8 题**来自 AIPM-Wiki《AI 产品经理能力模型》的「自查问题」章节。例如：T01（用一个真实类比讲清为什么会胡说八道）、T05（算法说"做不到"时追问什么）、B02（按日活估算 token 成本）、B03（能不能免费无限用）均出自该文的自查清单，而非上述 repo。
+2. **约 6-8 题**来自《AI 产品经理能力模型》一文的「自查问题」章节。例如：T01（用一个真实类比讲清为什么会胡说八道）、T05（算法说"做不到"时追问什么）、B02（按日活估算 token 成本）、B03（能不能免费无限用）均出自该文的自查清单，而非上述 repo。
 
 **本文件的加工（原素材没有的）：**
 

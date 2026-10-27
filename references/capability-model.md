@@ -1,6 +1,6 @@
 # AI 产品经理能力模型（测评尺子）
 
-来源：明心数智 AIPM-Wiki《AI 产品经理能力模型》（基于 Anthropic / OpenAI / Google DeepMind / Databricks 等 2026 年招聘 JD 整理）。
+来源：《AI 产品经理能力模型》——基于 Anthropic、OpenAI、Google DeepMind、Databricks 等公司 2026 年公开招聘职位描述整理而成的能力框架。
 本文件是测评的**评分依据**，必须与 `question-bank.md` 配合使用。
 
 ---

@@ -37,4 +37,4 @@ SOFTWARE.
 
 ## 其他来源
 
-- `references/capability-model.md` 与部分题目源自明心数智内部 AIPM-Wiki《AI 产品经理能力模型》。该文件本身注明其基于 Anthropic、OpenAI、Google DeepMind、Databricks 等公司公开招聘职位描述整理，属事实性信息的独立表述。内部资料，非正式发布前请勿对外分发。
+- `references/capability-model.md` 与部分题目源自《AI 产品经理能力模型》。该文基于 Anthropic、OpenAI、Google DeepMind、Databricks 等公司公开招聘职位描述整理，属对公开事实性信息的独立表述与重组。
