@@ -2,3 +2,9 @@ __pycache__/
 *.pyc
 dist/
 .DS_Store
+
+# 个人测评产物：含姓名与背景信息，禁止提交
+AI_PM能力测评报告_*.md
+*_报告.md
+aipm-scores.json
+scores.json
