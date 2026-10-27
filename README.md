@@ -93,3 +93,9 @@ python3 scripts/generate_report.py scores.json -o 报告.md
 - **L 档位**：技术认知 `<2.5` → 未达 L1；`2.5–3.4` → L1；`3.5–4.4` → L2；`≥4.5` 且商业判断 `≥4.0` → L3；`≥4.5` 但商业判断 `<4.0` → L2+
 
 详见 `references/capability-model.md`。
+
+## 许可
+
+本项目采用 [MIT License](LICENSE)。
+
+`references/question-bank.md` 中约 40 道题改编自 [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)（MIT License, Copyright 2024 Aishwarya Naresh Reganti），第三方声明见 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。
