@@ -9,9 +9,10 @@
 | 内容 | 来源 |
 |------|------|
 | 五维能力模型（技术认知 / 产品基本功 / 数据与评估 / 商业判断 / 伦理与合规）与「熟悉大模型」L1-L3 档位 | 《AI 产品经理能力模型》（基于公开 AI PM 招聘 JD 整理） |
-| 题库原素材（94 道英文面试题） | awesome-generative-ai-guide · `interview_prep/roles/ai-product-manager` |
+| 主卷题库原素材（94 道英文面试题） | awesome-generative-ai-guide · `interview_prep/roles/ai-product-manager` |
+| 扩展卷题库原素材（banks 答案库 Strong answer + 10 道 Reported 真题） | landedjobs/ai-interview-questions |
 
-题库已精选改编为 **50 道中文题**（五维 × 基础/进阶/挑战各 10 题），每题配「及格要点 / 优秀要点」作为评分锚点。
+题库共 **95 道中文题**：主卷 50 道（五维 × 基础/进阶/挑战各 10 题）+ 扩展卷 45 道（大厂实战题，偏进阶/挑战，含 OpenAI / Anthropic / Google DeepMind / Microsoft / Scale AI 等 10 道 Reported 实问真题，每题配中英双语完整参考答案）。每题均配「及格要点 / 优秀要点」作为评分锚点。
 
 ## 安装
 
@@ -54,7 +55,8 @@ git clone git@github.com:negrouzhou-commits/aipm-evtest.git ~/.workbuddy/skills/
 ├── SKILL.md                        # 技能主文件（流程与评分规则）
 ├── references/
 │   ├── capability-model.md         # 评分尺子：及格线/优秀线、1-5 分标准、L 档位定档算法、提升建议库
-│   └── question-bank.md            # 50 道题库（题干 + 及格要点 + 优秀要点）
+│   ├── question-bank.md            # 主卷 50 道题库（题干 + 及格要点 + 优秀要点）
+│   └── question-bank-ext.md        # 扩展卷 45 道大厂实战题（三段式 + 中英双语完整答案）
 ├── scripts/
 │   └── generate_report.py          # 由打分 JSON 生成 Markdown 报告（纯标准库）
 └── assets/
@@ -98,4 +100,4 @@ python3 scripts/generate_report.py scores.json -o 报告.md
 
 本项目采用 [MIT License](LICENSE)。
 
-`references/question-bank.md` 中约 40 道题改编自 [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)（MIT License, Copyright 2024 Aishwarya Naresh Reganti），第三方声明见 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。
+`references/question-bank.md` 中约 40 道题改编自 [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)（MIT License, Copyright 2024 Aishwarya Naresh Reganti）；`references/question-bank-ext.md` 中约 35 题双语答案与 10 道 Reported 真题源自 [landedjobs/ai-interview-questions](https://github.com/landedjobs/ai-interview-questions)（MIT License, Copyright 2026 Landed (b100x)）。第三方声明见 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。
